@@ -7,5 +7,5 @@ def sort_array_desc(num)
 end
 
 def sort_array_char_count(character)
-  character.sort do |word.length|
-  end 
+  character.length.sort
+  end
