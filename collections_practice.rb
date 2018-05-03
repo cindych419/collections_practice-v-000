@@ -15,3 +15,7 @@ def swap_elements(array)
   destination_index.delete(array[3])
   destination_index
 end
+
+def reverse_array(num)
+  num.reserse
+end
